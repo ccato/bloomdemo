@@ -12,5 +12,5 @@ Then cd into `namepicker` directory and install javascript/typescript requiremen
 - From bloomdemo dir, `python app.py` to run the backend service
 - From bloomdemo/namepicker dir, `npm run dev` to run the frontend
 - Open a browser and go to http://localhost:5173/
-- Enter a username
+- Enter a username 
 
