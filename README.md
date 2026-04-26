@@ -5,7 +5,7 @@ python > 3.12
 npm > 11 
 
 ## Setup:
-Install Python requirements from requirements.txt with Pip with `pip install -r requirements.txt
+Install Python requirements from requirements.txt with Pip with `pip install -r requirements.txt`
 Then cd into `namepicker` directory and install javascript/typescript requirements with `npm install`
 
 ## Running the demo:
