@@ -14,3 +14,5 @@ Then cd into `namepicker` directory and install javascript/typescript requiremen
 - Open a browser and go to http://localhost:5173/
 - Enter a username 
 
+## The author:
+Christopher Cato - Find out more at https://christophercato.se/
